@@ -1,8 +1,9 @@
 DRAFT
 =========
 
----Multiplas Filas de processo
-
+Multiplas Filas de processo
+--------
+```
 int lambda = 0 //numero de processos executados
 struct processo{
 	int Id;
@@ -18,9 +19,10 @@ struct cpu{
 }
 
 cpu.tempo = tempo+p[i].quantum
+```
 
-
--ESQUEMA
+*ESQUEMA
+```
 while(cpu.tempo<tempo_maximo || lambda<lambda_maximo){
 	chega_ou_nao_chega_processo()
 	executa_proximo()
@@ -36,11 +38,12 @@ chega_ou_nao_chega_processo() //randomiza criacao de processos
 		inserir_fila(processo)
 	}
 }
-
--ESTATISTICAS
-througput = processos_finalizados
-media aritimetica do throughput por periodo de tempo
-tamanho medio das filas
+```
+*ESTATISTICAS
+-------
+*througput = processos_finalizados
+*media aritimetica do throughput por periodo de tempo
+*tamanho medio das filas
 
 
 
