@@ -22,6 +22,8 @@ cpu.tempo = tempo+p[i].quantum
 ```
 
 *ESQUEMA
+--------
+
 ```
 while(cpu.tempo<tempo_maximo || lambda<lambda_maximo){
 	chega_ou_nao_chega_processo()
