@@ -43,7 +43,7 @@ media aritimetica do throughput por periodo de tempo
 tamanho medio das filas
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% COMENTARIOS DE GUILHERME RICARTE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%% COMENTARIOS DE GUILHERME RICARTE %%%%%%% 
 
 MULTIPLAS FILAS
     __________________________________
