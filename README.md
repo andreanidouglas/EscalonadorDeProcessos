@@ -1,4 +1,16 @@
-escalonador-de-processor
+Escalonador de Processos
 ========================
 
-trabalho da disciplina de lab SO
+Trabalho da Disciplina de Laboratorio de Sistemas Operacionais
+--------------------------------------------------------------
+
+
+TODO LIST
+=========
+
+|  Task  |  Completion  |
+|:--------:|:--------------:|
+| Vector of Queues | 0% |
+| Scheduler Scheme | 0% |
+| Statistics | 0% |
+
